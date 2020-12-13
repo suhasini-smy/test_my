@@ -17,4 +17,6 @@ application/logs/*
 /vendor/
 
 
+test.php
+
 
